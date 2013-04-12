@@ -3,4 +3,4 @@ merge_demo
 
 Pull Request and Merge Demos
 
-Gimel
+Gamma-Gimel
